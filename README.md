@@ -3,7 +3,6 @@
 BountyHunter es una herramienta todo-en-uno en Bash diseñada para automatizar las fases principales de un pentest o cacería de bugs.
 Integra las mejores herramientas de reconocimiento, escaneo y explotación en un solo flujo, generando un reporte automático con resultados listos para análisis o presentación.
 
-<img width="1680" height="1050" alt="Screenshot_2025-09-09_19_56_26" src="https://github.com/user-attachments/assets/8c14d48d-55af-4341-afae-ea9448e76a4b" />
 
 🔑 Características principales
 
